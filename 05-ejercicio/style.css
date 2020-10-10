@@ -4,3 +4,10 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
+.contenedor {
+    max-width: 1200px;
+    border: 1px solid #cccccc;
+    margin: 0 auto;
+    margin-top: 20px;
+}
