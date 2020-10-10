@@ -52,3 +52,34 @@
 #nav_menu ul li:hover a {
     color: #444444;
 }
+
+#contenido {
+    width: 70%;
+    border: 1px solid lightgreen;
+    float: left;
+}
+
+#contenido>h1 {
+    text-align: center;
+    color: lightseagreen;
+    padding: 15px;
+    text-transform: uppercase;
+    border-bottom: 1px solid lightsalmon;
+}
+
+#contenido .caja {
+    width: 40%;
+    height: 250px;
+    background: lightcoral;
+    color: #ffffff;
+    border: 3px solid lightgreen;
+    float: left;
+    margin: 25px;
+    margin-left: 40px;
+}
+
+#lateral {
+    width: 30%;
+    border: 1px solid lightskyblue;
+    float: left;
+}
